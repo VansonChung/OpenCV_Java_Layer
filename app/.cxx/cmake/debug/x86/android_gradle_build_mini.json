@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/van/android-ndk-r20b/build/cmake/platforms.cmake",
+    "/Users/van/android-ndk-r20b/build/cmake/android.toolchain.cmake",
+    "/Users/van/test/OpenCV_Java_Layer/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/van/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/van/test/OpenCV_Java_Layer/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/van/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/van/test/OpenCV_Java_Layer/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "dummy-lib-Debug-x86": {
+      "artifactName": "dummy-lib",
+      "buildCommand": "/Users/van/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/van/test/OpenCV_Java_Layer/app/.cxx/cmake/debug/x86\" dummy-lib",
+      "abi": "x86",
+      "output": "/Users/van/test/OpenCV_Java_Layer/app/build/intermediates/cmake/debug/obj/x86/libdummy-lib.so"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/van/test/OpenCV_Java_Layer/app/.cxx/cmake/debug/x86'
+[1/2] Building CXX object CMakeFiles/dummy-lib.dir/dummy-lib.cpp.o
+[2/2] Linking CXX shared library /Users/van/test/OpenCV_Java_Layer/app/build/intermediates/cmake/debug/obj/x86/libdummy-lib.so

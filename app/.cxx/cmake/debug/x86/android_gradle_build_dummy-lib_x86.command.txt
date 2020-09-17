@@ -1,0 +1,7 @@
+Executable : /Users/van/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/van/test/OpenCV_Java_Layer/app/.cxx/cmake/debug/x86
+dummy-lib
+jvmArgs : 
+
